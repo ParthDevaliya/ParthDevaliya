@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 i'm **Flutter Developer**
+- 🔭 i'm a **Flutter Developer**
 
 - 🌱 I’m currently learning **Mobile Application Development With kotlin & swift.**
 
