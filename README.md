@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px" width="30px">, I'm Parth</h1>
-<h3 align="center">I'm a Mobile Application Developer.</h3>
+<h3 align="center">I'm a Flutter Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 i'm a **Flutter Developer**
+- 🔭 I Have **3 Years Experience** In Flutter Developing Side.
 
 - 🌱 I’m currently learning **Mobile Application Development With kotlin & swift.**
 
